@@ -2,7 +2,7 @@
 
 **Politecnico di Milano** — A.Y. 2025/2026  
 **Prof.** Giacomo Boracchi
-**Credits:** 5 CFU | **Campus:** Milano Leonardo
+**Credits:** 5 CFU
 
 > Course page: [boracchi.faculty.polimi.it/teaching/MMMIP.htm](https://boracchi.faculty.polimi.it/teaching/MMMIP.htm)
 
