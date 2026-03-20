@@ -1,7 +1,7 @@
 # Mathematical Models and Methods for Image Processing (MMMIP)
 
 **Politecnico di Milano** — A.Y. 2025/2026  
-**Prof.** Giacomo Boracchi | **Ing.** Edoardo Peretti  
+**Prof.** Giacomo Boracchi
 **Credits:** 5 CFU | **Campus:** Milano Leonardo
 
 > Course page: [boracchi.faculty.polimi.it/teaching/MMMIP.htm](https://boracchi.faculty.polimi.it/teaching/MMMIP.htm)
@@ -55,32 +55,11 @@ MMMIP/
 - **Programming:** Python (or MATLAB)
 - **Libraries:** NumPy, SciPy, Matplotlib, scikit-image
 
-## Setup
-
-```bash
-# Clone
-git clone https://github.com/NiccoloSalvi/MMMIP.git
-cd MMMIP
-
-# Create virtual environment (optional)
-python -m venv .venv && source .venv/bin/activate
-
-# Install dependencies
-pip install numpy scipy matplotlib scikit-image jupyter
-```
-
-Or open notebooks directly in **Google Colab** — the course provides assignments via a shared Colab folder.
-
 ## Resources
 
 - [Course Introduction Slides (PDF)](https://boracchi.faculty.polimi.it/teaching/MMMIP/MMMIP_Boracchi_Introduction.pdf)
 - [Colab Assignments Folder](https://drive.google.com/drive/folders/16h7wXQZOk1MQScu7iPJwYinlvPnvNMPP?usp=sharing)
 - [Course Calendar](https://boracchi.faculty.polimi.it/teaching/MMMIPCalendar.htm)
-
-### Related courses
-
-- [Artificial Neural Networks and Deep Learning (AN2DL)](https://boracchi.faculty.polimi.it/teaching/AN2DL.htm)
-- [Learning Sparse Representations for Image and Signal Modeling (PhD)](https://boracchi.faculty.polimi.it/teaching/LearningSparse.htm)
 
 ## License
 
