@@ -33,6 +33,11 @@ No neural networks — only expert-driven algorithms with clear mathematical mod
 | 14 | FISTA | `lez_14_FISTA.ipynb` | Accelerates ISTA with FISTA momentum for faster L1-regularized optimization. |
 | 15 | IRLS, MOD & L1 Denoising | `lez_15_IRLS_MOD_l1Denoising.ipynb` | Compares IRLS and FISTA for L1 sparse coding and applies the workflow to dictionary-based denoising. |
 | 16 | Sparse Anomaly Detection | `lez_16_Anomaly_Detection.ipynb` | Detects anomalies by learning a normal dictionary, estimating sparse reconstruction errors and thresholding detections. |
+| 17 | Local Polynomial Approximation (LPA) | `lez_17_LPA.ipynb` | Builds standard and weighted LPA kernels and applies centered, left and right filters to synthetic signals. |
+| 18 | Adaptive LPA-ICI | `lez_18_LPA_ICI.ipynb` | Selects the local scale adaptively with the ICI rule and combines left- and right-sided estimates through aggregation. |
+| 19 | 2D and Anisotropic LPA-ICI | `lez_19_LPA_ICI_2D.ipynb` | Extends LPA-ICI to image denoising with multiscale isotropic and directional kernels, selected scales and PSNR evaluation. |
+| 20 | Robust Fitting | `lez_20_Robust_Fitting.ipynb` | Compares OLS and DLT line fitting under outliers and implements RANSAC, MSAC and LMedS robust estimators. |
+| 21 | Multi-Model Fitting | `lez_21_Multi_Model_Fitting.ipynb` | Uses Sequential RANSAC to detect multiple lines and circles in the Stair, Star and circle datasets. |
 
 ### Full syllabus
 
@@ -58,3 +63,7 @@ MMMIP/
 ## License
 
 Educational use only. Course materials belong to Prof. Giacomo Boracchi / Politecnico di Milano.
+
+## Valutazione
+
+**10/10**
